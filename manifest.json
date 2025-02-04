@@ -1,0 +1,10 @@
+{
+	"name": "Hello World Extension",
+	"version": "1.0",
+	"description": "My first Chrome extension.",
+	"manifest_version": 2,
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": "icon.png"
+	}
+}
